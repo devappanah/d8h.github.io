@@ -1,0 +1,11 @@
+# Site settings
+title: deviant's advantage
+# email: dev@appanah.org
+description: random musings as an entrepreneur, project manager & developer
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: dev_appanah
+github_username:  devappanah
+
+# Build settings
+markdown: kramdown
