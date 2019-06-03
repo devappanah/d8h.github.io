@@ -1,7 +1,7 @@
 # Site settings
-title: deviant's advantage
+title: Planet Jupyter
 # email: dev@appanah.org
-description: random musings as an entrepreneur, project manager & developer
+description: Journey into Data Science
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: dev_appanah
